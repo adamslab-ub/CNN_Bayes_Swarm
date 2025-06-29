@@ -4,6 +4,7 @@ In this paper, we proposed a learning based real-time down-sampling method for s
 The supplement associated with the paper can be found in the file Supplement.pdf
 
 How to use the code:
+
     Training:
         The folder train_env contains the codes to train a CNN architecture for real time down-sampling. To start the training, please run the file train_CNN.py <br/>
         The implementations of the functions "Generate Matrix" and "Nearest-Points" in Algorithm 1 of our paper are in the file "environment.py". <br/>
