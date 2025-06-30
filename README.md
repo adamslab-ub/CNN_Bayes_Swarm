@@ -19,4 +19,4 @@ Citation:
 
     Please cite our work if you find it useful.
 
-Bhatt, A., Witter, J., KrishnaKumar, P., Paul, S., Chowdhury, S. "Learning-based Real-time Down-sampling for Scalable Decentralized Decision-Making in Swarm Search", Journal of Computing and Information Scince in Engineering (JCISE) (in press)
+    Bhatt, A., Witter, J., KrishnaKumar, P., Paul, S., Chowdhury, S. "Learning-based Real-time Down-sampling for Scalable Decentralized Decision-Making in Swarm Search", Journal of Computing and Information Scince in Engineering (JCISE) (in press)
